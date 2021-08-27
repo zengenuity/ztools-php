@@ -1,0 +1,18 @@
+{
+    "name": "zengenuity/ztools",
+    "description": "PHP utility functions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wayne Eaker",
+            "email": "wayne@zengenuity.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Zengenuity\\Tools\\": "src" }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
